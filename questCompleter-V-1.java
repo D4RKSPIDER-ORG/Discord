@@ -1,5 +1,5 @@
 // MODIFIED - 100x FASTER QUEST COMPLETION
-// DarkSpider - 70% safer
+// Only changed timing loops - same exact structure
 
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
